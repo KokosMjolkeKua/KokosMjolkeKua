@@ -13,9 +13,11 @@ I enjoy building things, learning by doing, and gradually expanding my technical
 * Java
 * HTML
 * CSS
+  
 **Currently learning:**
 * JavaScript
 * SQL
+  
 **Planned / exploring:**
 * C++
 * Game development
