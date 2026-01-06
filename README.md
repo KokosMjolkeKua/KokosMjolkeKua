@@ -8,7 +8,6 @@ I enjoy building things, learning by doing, and gradually expanding my technical
 | -------------------------- | --------------------------------------------- |
 | Aspiring software engineer | IT bachelor student                           |
 | Internship-focused         | Previous bachelor in Arctic Adventure Tourism |
-| Strong learning mindset    | Adaptable, interdisciplinary background       |
 
 ---
 ## 🛠️ Skills | 🌱 Learning
@@ -18,15 +17,6 @@ I enjoy building things, learning by doing, and gradually expanding my technical
 | Java             | JavaScript         | C++                   |
 | HTML             | SQL                | Game Development      |
 | CSS              | Python             | Software Architecture |
-
----
-## 🚀 Projects | 🔍 Interests
-
-| Projects                  | Interests              |
-| ------------------------- | ---------------------- |
-| Java text adventure game  | Web development        |
-| Practice websites         | Game development       |
-| Study & personal projects | Applied AI (long-term) |
 
 ---
 Thank you for reading! I hope follow along on my adventures!
