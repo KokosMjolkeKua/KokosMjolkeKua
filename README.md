@@ -17,7 +17,7 @@ I enjoy building things, learning by doing, and gradually expanding my technical
 | ---------------- | ------------------ | --------------------- |
 | Java             | JavaScript         | C++                   |
 | HTML             | SQL                | Game Development      |
-| CSS              |                    | Software Architecture |
+| CSS              | Python             | Software Architecture |
 
 ---
 ## 🚀 Projects | 🔍 Interests
